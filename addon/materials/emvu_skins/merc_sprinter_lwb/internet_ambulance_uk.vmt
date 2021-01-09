@@ -1,0 +1,26 @@
+"VertexlitGeneric" {
+	"$basetexture" "emvu_skins/merc_sprinter_lwb/internet_ambulance_uk"
+	"$bumpmap" "models/lonewolfiescars/shared/skin_nm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.025 0.025 0.025]"
+	"$nodecal" 1
+	"$nocull" 1
+	"$normalmapalphaenvmapmask" 1
+	"$blendtintbybasealpha" 1
+	"$halflambert" 1
+	"$phong" 1
+	"$phongboost" 1
+	"$phongexponent" 50
+	"$phongfresnelranges" "[.3 .5 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" ".1"
+	"$rimmask" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies" {
+		"Equals" {
+			srcVar1 $colorfix
+			resultVar $color
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "description": "[b]Premble[/b]\nI like cars. I like cars with cool lights more.\nAfter I while of playing with Photon, I started to try and learn how to make my own Photon vehicles, and this is the result.\n\n[b]Description[/b]\nWhat is this? Well, it's a Mercedes Benz Sprinter LWB, with emergency lighting. It's that simple.\n\n[b]Features[/b]\nFully working Photon Vehicle, with Liveries, Props, Selections and Bodygroups.\n\n3 Liveries: Speed Enforcement (UK Based), Prison Transport (UK Based), SWAT (US Based).\n7 Equipment Sets: Grill Lights, Lightbar, Interior Equipment, Pushbar, Interior Front (Upper and Lower), Mirror Lights\nPhoton Running Lights\n\n[b]The Equipment[/b]\n[i]Grill Lights[/i]\nSprinter - Blue\nSprinter - Red/Blue\nNone\n\n[i]Lightbar[/i]\nSprinter - Blue\nSprinter - Red/Blue\nWhelen Liberty SX - Red/Blue\nWhelen Liberty SX - Blue\nWhelen Liberty SX - Amber\nWhelen Liberty II - Red/Blue\nWhelen Liberty II - Blue\nWhelen Liberty II - Amber\nNone\n\n[i]Interior Equipment[/i]\nPolice\nNone\n\n[i]Pushbar[/i]\nWraparound\nPushrod\nPushbar - Unlit\nPushbar - LED (Blue)\nPushbar - LED (Red/Blue)\nNone\n\n[i]Front Upper Deck[/i]\nSplit Interior Bar - Blue\nSplit Interior Bar - Red/Blue\nTomar 200s - Blue\nTomar 200s - Red/Blue\nTomar 200s - White/Blue\nTomar 200s - White/Blue/Red\nNone\n\n[i]Front Lower Deck[/i]\nViper Dual - Blue\nViper Dual - Red\nViper Dual - Red/Blue\nViper Single - Blue\nViper Single - Red\nViper Single - Red/Blue\nNone\n\n[i]Mirror Lights[/i]\nWhelen Ion - Blue\nWhelen Ion - Red\nWhelen Ion - Red/Blue",
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ],
+    "tags": [
+        "roleplay",
+        "realism"
+    ],
+    "title": "Internet's Emergency - Sprinter",
+    "type": "vehicle",
+    "workshopid": 822590982.0
+}
